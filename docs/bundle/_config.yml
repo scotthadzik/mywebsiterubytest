@@ -28,7 +28,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #domain: scotthadzik.github.io
 url: "https://scotthadzik.github.io/mywebsiterubytest" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://scotthadzik.github.io/mywebsiterubytest" # the subpath of your site, e.g. /blog
 
 
 
